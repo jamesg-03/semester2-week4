@@ -19,5 +19,8 @@ int main( void ) {
 
     // use 'strcpy' to copy a string into str3 - print string 3
 
+    printf("The result is %i strcmp(str1, str2));
+    
+
     return 0;
 }
